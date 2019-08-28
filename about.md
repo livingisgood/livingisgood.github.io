@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to this website!
-
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+如果你想联系我，可以给我发邮件，地址是 501942314@qq.com
